@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resources/add-folder.png</file>
+        <file>resources/bin.png</file>
+        <file>resources/copy.png</file>
+        <file>resources/floppy-disk.png</file>
+        <file>resources/folder.png</file>
+        <file>resources/highlighter.png</file>
+        <file>resources/paste.png</file>
+        <file>resources/pencil.png</file>
+        <file>resources/scissors.png</file>
+        <file>resources/stationery.png</file>
+        <file>resources/redo.png</file>
+        <file>resources/undo.png</file>
+        <file>resources/log-out.png</file>
+    </qresource>
+</RCC>
